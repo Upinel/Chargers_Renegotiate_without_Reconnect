@@ -2,8 +2,8 @@
 This public list aims to organize USB-C chargers that renegotiate power without disconnecting any existing devices.  
 Anyone is welcome to contribute to this list. The “Buy Link” may be sponsored. Additionally, contributors of new records can use their sponsored link to incentivize collaboration and co-authoring this list.
 
-| Brand | Model | Wattage | No. of USBC Ports | No. of USBA Ports | GaN? | Do it reconnect? (No is Good) | Price | Buy |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Brand | Model | Wattage | USBC Ports | USBA Ports | GaN? | Do it reconnect? ($\sf\color{lightgreen}No is Good$) | Price | Buy |
+|:--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Belkin | BoostCharge 3-Port USB-C Wall Charger with PPS 67W | 67w | 3 | 0 | Yes | $\sf\color{lightgreen}No$ [^Belkin] | $40 | [Amazon UK](https://amzn.to/4jDgqLl) |
 | Belkin | BoostCharge Pro 108W 4-Port GaN Charger | 108w | 2 | 2 | Yes | $\sf\color{lightgreen}No$ [^Belkin] | $60 | [Amazon UK](https://amzn.to/3EHj5o4) |
 | ISDT | MASS2 200W Desktop Super Power Station | 200w | 6 | 2 | Yes | $\sf\color{lightgreen}No$ [^ISDT] | £67 | [Amazon UK](https://amzn.to/3YT9K3l) |
