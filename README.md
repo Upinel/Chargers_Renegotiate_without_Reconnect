@@ -4,12 +4,12 @@ Anyone is welcome to contribute to this list. The “Buy Link” may be sponsore
 
 | Brand | Model | Wattage | USBC Ports | USBA Ports | GaN? | Reconnect? | Price | Buy |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Anker | 240W USB C Charger, Fast Compact 4-Port GaN Charger | 240w | 3 | 1 | Yes | $\sf\color{lightgreen}No$ | $130 | [Amazon UK](https://amzn.to/4lQIfRW) |
 | Belkin | BoostCharge 3-Port USB-C Wall Charger with PPS 67W | 67w | 3 | 0 | Yes | $\sf\color{lightgreen}No$ [^Belkin] | $40 | [Amazon UK](https://amzn.to/4jDgqLl) |
 | Belkin | BoostCharge Pro 108W 4-Port GaN Charger | 108w | 2 | 2 | Yes | $\sf\color{lightgreen}No$ [^Belkin] | $60 | [Amazon UK](https://amzn.to/3EHj5o4) |
 | ISDT | MASS2 200W Desktop Super Power Station | 200w | 6 | 2 | Yes | $\sf\color{lightgreen}No$ [^ISDT] | £67 | [Amazon UK](https://amzn.to/3YT9K3l) |
 | Apple | 35W Dual USB-C Port Compact Power Adapter | 35w | 2 | 0 | No | $\sf\color{lightgreen}No$ | $59 |  |
 | Xiaomi | 140W GaN Fast Charging Charger Set 1A2C | 140w | 2 | 1 | Yes | $\sf\color{lightgreen}No$ | $76 |  |
-| Anker | 240W USB C Charger, Fast Compact 4-Port GaN Charger | 240w | 3 | 1 | Yes | $\sf\color{lightgreen}No$ | $130 | [Amazon UK](https://amzn.to/4lQIfRW) |
 | SlimQ | 100W USB C Charger PD3.0 Quick Charging Station Block | 100w | 3 | 1 | Yes | $\sf\color{lightgreen}No$ | $43 |  |
 | SlimQ | GAN USB C Charger: 100W | 100w | 2 | 2 | Yes | $\sf\color{lightgreen}No$ [^SlimQ]  | $43 |  |
 | Asometech | 160W 5 Ports USB Charger Staion | 160w | 3 | 2 | No | $\sf\color{gold}Kinda$[^Asometech]  | $27 |  |
@@ -23,7 +23,6 @@ Anyone is welcome to contribute to this list. The “Buy Link” may be sponsore
 | NOVOO | 67 W USB C Charger | 67w | 1 | 1 | Yes | $\sf\color{red}Yes$ |  |  |
 | Mazer | M-GaN120W GaNPrestige 120W Wall Charger with Travel Pin | 120w | 3 | 1 | Yes | $\sf\color{red}Yes$ |  |  |
 | Ldnio | 140W GaN Super Fast Desktop Charger A6140C | 140w | 3 | 3 | Yes | $\sf\color{red}Yes$ |  |  |
-
 | Ugreen | 200W USB C Charger, Nexode 6-Port GaN Desktop Charger | 200w | 4 | 2 | Yes | $\sf\color{red}Yes$ [^Ugreen] | $140 |  |
 
 [^Belkin]:  DPs saying it disconnects [1](https://old.reddit.com/r/UsbCHardware/comments/r9r1nf/normal_for_usb_c_multiport_chargers_to/iflcr3n/), [2](https://www.youtube.com/watch?v=ypPZszqLxts)
