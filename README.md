@@ -5,7 +5,7 @@ Anyone is welcome to contribute to this list. The “Buy Link” may be sponsore
 | Brand | Model | Wattage | No. of USBC Ports | No. of USBA Ports | GaN? | Do it reconnect? (No is Good) | Price | Buy |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Belkin | BoostCharge 3-Port USB-C Wall Charger with PPS 67W | 67w | 3 | 0 | Yes | `No` [^Belkin] | $40 | [Amazon UK](https://amzn.to/4jDgqLl) |
-| Belkin | BoostCharge Pro 108W 4-Port GaN Charger | 108w | 2 | 2 | Yes | `No` [^Belkin] | $60 | https://old.reddit.com/r/UsbCHardware/comments/r9r1nf/normal_for_usb_c_multiport_chargers_to/iflcr3n/ , https://www.youtube.com/watch?v=ypPZszqLxts |
+| Belkin | BoostCharge Pro 108W 4-Port GaN Charger | 108w | 2 | 2 | Yes | `No` [^Belkin] | $60 |  |
 | ISDT | MASS2 200W Desktop Super Power Station | 200w | 6 | 2 | Yes | `No` [^ISDT] | £67 | [Amazon UK](https://amzn.to/3YT9K3l) |
 | Apple | 35W Dual USB-C Port Compact Power Adapter | 35w | 2 | 0 | No | `No` | $59 |  |
 | Xiaomi | 140W GaN Fast Charging Charger Set 1A2C | 140w | 2 | 1 | Yes | `No` | $76 |  |
