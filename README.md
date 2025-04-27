@@ -1,6 +1,7 @@
 # Chargers that will not disconnect any existing devices when new devices plug in.
 This public list aims to organize USB-C chargers that renegotiate power without disconnecting any existing devices.  
-Anyone is welcome to contribute to this list. The “Buy Link” may be sponsored. Additionally, contributors of new records can use their sponsored link to incentivize collaboration and co-authoring this list.
+Anyone is welcome to contribute to this list. The “Buy Link” may be sponsored. Additionally, contributors of new records can use their sponsored link to incentivize collaboration and co-authoring this list.  
+In the “Reconnect?” column, $\sf\color{lightgreen}No$ indicates that the charger can maintain the connection between connected devices without the need for renegotiation. This is considered a good outcome.
 
 | Brand | Model | Wattage | USBC Ports | USBA Ports | GaN? | Reconnect? | Price | Buy |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
