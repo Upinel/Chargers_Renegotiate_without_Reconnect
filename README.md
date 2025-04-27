@@ -12,11 +12,11 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 | ISDT | MASS2 200W Desktop Super Power Station | 200w | 6 | 2 | Yes | $\sf\color{lightgreen}No$ [^ISDT] | £67/$89 | [Amazon UK](https://amzn.to/3YT9K3l) |
 | Apple | 35W Dual USB-C Port Compact Power Adapter | 35w | 2 | 0 | No | $\sf\color{lightgreen}No$ | $59 |  |
 | Xiaomi | 140W GaN Fast Charging Charger Set 1A2C | 140w | 2 | 1 | Yes | $\sf\color{lightgreen}No$ | $76 |  |
-| SlimQ | 100W USB C Charger PD3.0 Quick Charging Station Block | 100w | 3 | 1 | Yes | $\sf\color{lightgreen}No$ | $43 |  |
-| SlimQ | GAN USB C Charger: 100W | 100w | 2 | 2 | Yes | $\sf\color{lightgreen}No$ [^SlimQ]  | $43 |  |
+| SlimQ | 100W USB C Charger PD3.0 Quick Charging Station Block | 100w | 3 | 1 | Yes | $\sf\color{lightgreen}No$ | $43 | [Amazon UK](https://amzn.to/3YkvHrU) |
+| SlimQ | GAN USB C Charger: 100W | 100w | 2 | 2 | Yes | $\sf\color{lightgreen}No$ [^SlimQ]  | $43 | [Amazon UK](https://amzn.to/3YLz4Z2) |
 | Asometech | 160W 5 Ports USB Charger Staion | 160w | 3 | 2 | No | $\sf\color{gold}Kinda$[^Asometech]  | $27 |  |
-| Anker | A2343 | 100w | 2 | 1 | Yes | $\sf\color{red}Yes$ [^Anker2]  | $85 |  |
-| Anker | 735 Charger (Nano II 65W) |  | 2 | 1 | Yes | $\sf\color{red}Yes$ | $32 | [Amazon UK]() |
+| Anker | A2343 | 100w | 2 | 1 | Yes | $\sf\color{red}Yes$ [^Anker2]  | $85 | [Amazon UK](https://amzn.to/431vs7I) |
+| Anker | 735 Charger (Nano II 65W) |  | 2 | 1 | Yes | $\sf\color{red}Yes$ | $32 | [Amazon UK](https://amzn.to/42ue9fo) |
 | Ugreen | 65W USB C Charger, Nexode 3 Ports GaN | 65w | 2 | 1 | Yes | $\sf\color{red}Yes$ [^Ugreen]  | $30 | [Amazon UK](https://amzn.to/3EH7B3S) |
 | Ugreen | 100W USB C Charger, Nexode 4-Port GaN | 100w | 3 | 1 | Yes | $\sf\color{red}Yes$ [^Ugreen] | $46 | [Amazon UK](https://amzn.to/4lUmbpC) |
 | Aukey | Omnia Mix4 4-Port PD Charger 100W | 100w | 2 | 2 | Yes | $\sf\color{red}Yes$ | $59 |  |
