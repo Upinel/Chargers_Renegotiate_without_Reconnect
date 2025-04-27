@@ -9,7 +9,7 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 | Anker | 240W USB C Charger, Fast Compact 4-Port GaN Charger | 240w | 3 | 1 | Yes | $\sf\color{lightgreen}No$ | $130 | [Amazon UK](https://amzn.to/4lQIfRW) |
 | Belkin | BoostCharge 3-Port USB-C Wall Charger with PPS 67W | 67w | 3 | 0 | Yes | $\sf\color{lightgreen}No$ [^Belkin] | $40 | [Amazon UK](https://amzn.to/4jDgqLl) |
 | Belkin | BoostCharge Pro 108W 4-Port GaN Charger | 108w | 2 | 2 | Yes | $\sf\color{lightgreen}No$ [^Belkin] | $60 | [Amazon UK](https://amzn.to/3EHj5o4) |
-| ISDT | MASS2 200W Desktop Super Power Station | 200w | 6 | 2 | Yes | $\sf\color{lightgreen}No$ [^ISDT] | £67 | [Amazon UK](https://amzn.to/3YT9K3l) |
+| ISDT | MASS2 200W Desktop Super Power Station | 200w | 6 | 2 | Yes | $\sf\color{lightgreen}No$ [^ISDT] | £67/$89 | [Amazon UK](https://amzn.to/3YT9K3l) |
 | Apple | 35W Dual USB-C Port Compact Power Adapter | 35w | 2 | 0 | No | $\sf\color{lightgreen}No$ | $59 |  |
 | Xiaomi | 140W GaN Fast Charging Charger Set 1A2C | 140w | 2 | 1 | Yes | $\sf\color{lightgreen}No$ | $76 |  |
 | SlimQ | 100W USB C Charger PD3.0 Quick Charging Station Block | 100w | 3 | 1 | Yes | $\sf\color{lightgreen}No$ | $43 |  |
