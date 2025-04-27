@@ -34,5 +34,11 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 [^Anker2]: but it's superfast at reconnecting
 [^Asometech]: there are three zones, it only disconnects if you plug into the same zone
 
+# Contribution
+You can contribute to this list by either:
+- [Create a new issue](https://github.com/Upinel/Chargers_Renegotiate_without_Reconnect/issues) and list the following information:  
+  `Brand | Model | Wattage | USBC Ports | USBA Ports | GaN? | Reconnect? | Price | Buy link (can be sponsored)` and remarks if any.
+- Create a Pull requests
+
 # Source Credits
 The original idea from: [Reddit Post by @divinebaboon](https://www.reddit.com/r/UsbCHardware/comments/1c0ljdm/datapoints_welcome_list_of_usbc_gan_chargers_that/), @divinebaboon if you can msg me, the Amazon US sponsor link for the original list is reserved for you.
