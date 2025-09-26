@@ -14,8 +14,8 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 | Aukey     | Omnia Mix4 4-Port PD Charger 100W                       | 100w    | 2          | 2          | Yes  | $\sf\color{red}Yes$                 | $59     |                                      |
 | Baseus    | 100W 4-Port GaN II Charging Station                     | 100w    | 2          | 2          | Yes  | $\sf\color{red}Yes$                 | $60     |                                      |
 | Baseus    | 100W PD GaN3 Fast Wall Charger Block                    | 100w    | 2          | 2          | Yes  | $\sf\color{red}Yes$                 | $48     |                                      |
-| Belkin    | BoostCharge 3-Port USB-C Wall Charger with PPS 67W      | 67w     | 3          | 0          | Yes  | $\sf\color{lightgreen}No$ [^Belkin] | $40     | [Amazon UK](https://amzn.to/4jDgqLl) |
-| Belkin    | BoostCharge Pro 108W 4-Port GaN Charger                 | 108w    | 2          | 2          | Yes  | $\sf\color{lightgreen}No$ [^Belkin] | $60     | [Amazon UK](https://amzn.to/3EHj5o4) |
+| Belkin    | BoostCharge 3-Port USB-C Wall Charger with PPS 67W      | 67w     | 3          | 0          | Yes  | $\sf\color{red}Yes$  [^Belkin] | $40     | [Amazon UK](https://amzn.to/4jDgqLl) |
+| Belkin    | BoostCharge Pro 108W 4-Port GaN Charger                 | 108w    | 2          | 2          | Yes  | $\sf\color{red}Yes$  [^Belkin] | $60     | [Amazon UK](https://amzn.to/3EHj5o4) |
 | ISDT      | MASS2 200W Desktop Super Power Station                  | 200w    | 6          | 2          | Yes  | $\sf\color{lightgreen}No$ [^ISDT]   | £67/$89 | [Amazon UK](https://amzn.to/3YT9K3l) |
 | Ldnio     | 140W GaN Super Fast Desktop Charger A6140C              | 140w    | 3          | 3          | Yes  | $\sf\color{red}Yes$                 |         |                                      |
 | Mazer     | M-GaN120W GaNPrestige 120W Wall Charger with Travel Pin | 120w    | 3          | 1          | Yes  | $\sf\color{red}Yes$                 |         |                                      |
