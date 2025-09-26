@@ -7,7 +7,7 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 | Brand     | Model                                                   | Wattage | USBC Ports | USBA Ports | GaN? | Reconnect?                          | Price   | Buy                                  |
 | :-------- | :------------------------------------------------------ | :------ | :--------- | :--------- | :--- | :---------------------------------- | :------ | :----------------------------------- |
 | Anker     | 240W USB C Charger, Fast Compact 4-Port GaN Charger     | 240w    | 3          | 1          | Yes  | $\sf\color{lightgreen}No$           | $130    | [Amazon UK](https://amzn.to/4lQIfRW) |
-| Anker     | Anker Nano Charger, 130W Output 6-Port GaN Charger      | 130w    | 4          | 2          | Yes  | $\sf\color{lightgreen}No$           | $59     | [Amazon UK](https://amzn.to/3Vy4ksD) |
+| Anker     | Anker Nano Charger, 130W Output 6-Port GaN Charger 👍   | 130w    | 4          | 2          | Yes  | $\sf\color{lightgreen}No$           | $59     | [Amazon UK](https://amzn.to/3Vy4ksD) |
 | Anker     | A2343                                                   | 100w    | 2          | 1          | Yes  | $\sf\color{red}Yes$ [^Anker2]       | $85     | [Amazon UK](https://amzn.to/431vs7I) |
 | Anker     | 735 Charger (Nano II 65W)                               |         | 2          | 1          | Yes  | $\sf\color{red}Yes$                 | $32     | [Amazon UK](https://amzn.to/42ue9fo) |
 | Apple     | 35W Dual USB-C Port Compact Power Adapter               | 35w     | 2          | 0          | No   | $\sf\color{lightgreen}No$           | $59     |                                      |
