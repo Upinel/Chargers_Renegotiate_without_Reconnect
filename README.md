@@ -7,6 +7,7 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 | Brand     | Model                                                   | Wattage | USBC Ports | USBA Ports | GaN? | Reconnect?                          | Price   | Buy                                  |
 | :-------- | :------------------------------------------------------ | :------ | :--------- | :--------- | :--- | :---------------------------------- | :------ | :----------------------------------- |
 | Anker     | 240W USB C Charger, Fast Compact 4-Port GaN Charger     | 240w    | 3          | 1          | Yes  | $\sf\color{lightgreen}No$           | $130    | [Amazon UK](https://amzn.to/4lQIfRW) |
+| Anker     | Prime 200W 6-Port GaN Charging Station (A2683)           | 200w    | 4          | 2          | Yes  | $\sf\color{gold}Kinda$ [^AnkerPrime200] | £70/$85 | [Amazon UK](https://www.amazon.co.uk/dp/B0D59JNQ9F) |
 | Anker     | Anker Nano Charger, 130W Output 6-Port GaN Charger 👍   | 130w    | 4          | 2          | Yes  | $\sf\color{lightgreen}No$           | $59     | [Amazon UK](https://amzn.to/3Vy4ksD) |
 | Anker     | A2343                                                   | 100w    | 2          | 1          | Yes  | $\sf\color{red}Yes$ [^Anker2]       | $85     | [Amazon UK](https://amzn.to/431vs7I) |
 | Anker     | 735 Charger (Nano II 65W)                               |         | 2          | 1          | Yes  | $\sf\color{red}Yes$                 | $32     | [Amazon UK](https://amzn.to/42ue9fo) |
@@ -24,6 +25,7 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 | NOVOO     | 67 W USB C Charger                                      | 67w     | 1          | 1          | Yes  | $\sf\color{red}Yes$                 |         |                                      |
 | SlimQ     | 100W USB C Charger PD3.0 Quick Charging Station Block   | 100w    | 3          | 1          | Yes  | $\sf\color{lightgreen}No$           | $43     | [Amazon UK](https://amzn.to/3YkvHrU) |
 | SlimQ     | GAN USB C Charger: 100W                                 | 100w    | 2          | 2          | Yes  | $\sf\color{lightgreen}No$ [^SlimQ]  | $43     | [Amazon UK](https://amzn.to/3YLz4Z2) |
+| SlimQ     | F240 240W DC/USB-C GaN Charger                          | 240w    | 2          | 0          | Yes  | $\sf\color{lightgreen}No$ [^SlimQ240] | $109    | [SlimQ Store](https://slimq.life/products/240w-dc-usb-c-gan-charger) |
 | Ugreen    | 65W USB C Charger, Nexode 3 Ports GaN                   | 65w     | 2          | 1          | Yes  | $\sf\color{red}Yes$ [^Ugreen]       | $30     | [Amazon UK](https://amzn.to/3EH7B3S) |
 | Ugreen    | 100W USB C Charger, Nexode 4-Port GaN                   | 100w    | 3          | 1          | Yes  | $\sf\color{red}Yes$ [^Ugreen]       | $46     | [Amazon UK](https://amzn.to/4lUmbpC) |
 | Ugreen    | 200W USB C Charger, Nexode 6-Port GaN Desktop Charger   | 200w    | 4          | 2          | Yes  | $\sf\color{red}Yes$ [^Ugreen]       | $140    |                                      |
@@ -36,6 +38,8 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 [^Anker2]: but it's superfast at reconnecting
 [^Asometech]: there are three zones, it only disconnects if you plug into the same zone
 [^BaseusCube]: When C1 is in use and a 2nd device is connected via C2/USB-A, disconnect won't happen with non-fast-charge cables. With fast-charge cables, it will disconnect if the new device needs more power than currently available.
+[^AnkerPrime200]: USB-C ports renegotiate seamlessly (no disconnect). USB-A ports will disconnect if both are in use. Single USB-A is fine.
+[^SlimQ240]: No disconnect unless total power exceeds 240W. Also has a 20V DC barrel jack for laptops.
 
 # Contribution
 You can contribute to this list by either:
