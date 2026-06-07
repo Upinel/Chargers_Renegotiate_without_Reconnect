@@ -13,6 +13,7 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 | Apple     | 35W Dual USB-C Port Compact Power Adapter               | 35w     | 2          | 0          | No   | $\sf\color{lightgreen}No$           | $59     |                                      |
 | Asometech | 160W 5 Ports USB Charger Staion                         | 160w    | 3          | 2          | No   | $\sf\color{gold}Kinda$[^Asometech]  | $27     |                                      |
 | Aukey     | Omnia Mix4 4-Port PD Charger 100W                       | 100w    | 2          | 2          | Yes  | $\sf\color{red}Yes$                 | $59     |                                      |
+| Baseus    | Cube Pro 3 Ports Fast Charger 65W                       | 65w     | 2          | 1          | Yes  | $\sf\color{red}Yes$ [^BaseusCube]    | ~$30    | [Baseus EU](https://eu.baseus.com/products/cube-pro-3-ports-fast-charger-65w) |
 | Baseus    | 100W 4-Port GaN II Charging Station                     | 100w    | 2          | 2          | Yes  | $\sf\color{red}Yes$                 | $60     |                                      |
 | Baseus    | 100W PD GaN3 Fast Wall Charger Block                    | 100w    | 2          | 2          | Yes  | $\sf\color{red}Yes$                 | $48     |                                      |
 | Belkin    | BoostCharge 3-Port USB-C Wall Charger with PPS 67W      | 67w     | 3          | 0          | Yes  | $\sf\color{red}Yes$  [^Belkin] | $40     | [Amazon UK](https://amzn.to/4jDgqLl) |
@@ -34,6 +35,7 @@ In the `Reconnect?` column, $\sf\color{lightgreen}No$ indicates that the charger
 [^Ugreen]: all Ugreens disconnect
 [^Anker2]: but it's superfast at reconnecting
 [^Asometech]: there are three zones, it only disconnects if you plug into the same zone
+[^BaseusCube]: When C1 is in use and a 2nd device is connected via C2/USB-A, disconnect won't happen with non-fast-charge cables. With fast-charge cables, it will disconnect if the new device needs more power than currently available.
 
 # Contribution
 You can contribute to this list by either:
